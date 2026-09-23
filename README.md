@@ -56,7 +56,7 @@ Kembali ke Beranda
 Struktur project yang digunakan dalam aplikasi adalah sebagai berikut:
 
 ```text
-tugas_rumah/
+wisata_kampus/
 │
 ├── app_screenshots/
 │   └── wisata_kampus/
